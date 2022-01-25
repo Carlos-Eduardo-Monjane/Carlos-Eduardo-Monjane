@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Carlos-Eduardo-Monjane
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Carlos-Eduardo-Monjane/Carlos-Eduardo-Monjane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 
+Desenvolvedor FullStack
+Solidity - Web3.js 
+Vue Js
+Flutter Dev
+Sênior em Web (Laravel)
+Apiato based on Laravel
+API REST and RESTFULL
+Metodologias Ageis (SCRUM) 
